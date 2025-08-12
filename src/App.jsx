@@ -310,7 +310,7 @@ const App = () => {
         </div>
 
         {/* Right: Live Preview */}
-        <div ref={contentRef} className="w-full md:w-1/2 p-4 bg-gray-100 overflow-y-auto">
+        <div ref={contentRef} className="prose prose-sm w-full md:w-1/2 p-4 bg-gray-100 overflow-y-auto w-[21cm] h-[18cm] p-8 bg-white shadow-md mx-auto print:w-full print:h-full">
           {/* Basic Details */}
           <div>
             {basicData.name && <h1 className="flex space-x-10"><span className="font-bold">Name:</span><span>{basicData.name}</span></h1>}
