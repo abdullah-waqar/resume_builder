@@ -46,4 +46,24 @@ https://resume-builder-murex-theta.vercel.app/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://https://github.com/abdullah-waqar/resume_builder
+git clone https://https:github.com/abdullah-waqar/resume_builder
+```
+### 2️⃣ Clone the repository
+```bash
+cd resume-builder
+```
+
+### 3️⃣ Install dependencies
+```bash
+npm install
+```
+
+###4️⃣ Run the development server
+```bash
+npm run dev
+```
+
+### OPEN YOUR BROWSER AT
+```bash
+http://localhost:5173
+```
