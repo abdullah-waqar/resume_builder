@@ -168,7 +168,6 @@ const App = () => {
     <div>
       <ToastContainer />
       <h1 className="text-4xl font-bold tracking-wider text-center mt-2 mb-4">Resume Builder</h1>
-      {/* Hidden span to make Tailwind include all the dynamic text classes */}
       <span className="hidden text-red-500 text-blue-500 text-green-500 text-yellow-500 text-gray-500 text-purple-500 text-pink-500" />
 
       <div className="flex flex-col h-screen p-4 md:flex-row">
